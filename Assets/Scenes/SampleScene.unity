@@ -4479,12 +4479,12 @@ MonoBehaviour:
   purchaseButton: {fileID: 352023072}
   closeButton: {fileID: 1068112521}
   inventory:
-  - dressName: Summer Floral Dress
+  - dressName: Long Japanese Dress
     price: 100
-    dressSprite: {fileID: -597132393468364829, guid: 2957d801da21c957488eda399da0f9dd, type: 3}
-  - dressName: Cyberpunk Neon Jacket
+    dressSprite: {fileID: -3926153883103353510, guid: a7f22f7367fc09250831502406e3191f, type: 3}
+  - dressName: Pastel Dress
     price: 250
-    dressSprite: {fileID: -2485898490030593948, guid: 284fbdcb47bea7e7fa153d35f43b8bf4, type: 3}
+    dressSprite: {fileID: 6237507946415206713, guid: cad83c148dae4f806bf38dd475376b58, type: 3}
   rotationSpeed: 100
 --- !u!65 &813435050
 BoxCollider:
